@@ -1,5 +1,5 @@
 # FLASH_NTCP
-Code and data for "Effect of the dose distribution and organ response on the toxicity in FLASH radiotherapy: a modeling study"
+Code and data for "Effect of the dose distribution and organ architecture on the toxicity in FLASH radiotherapy: a modeling study"
 
 VARIABLES IN THE DATA.MAT WORKSPACE
 
